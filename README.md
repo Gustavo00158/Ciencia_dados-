@@ -1,27 +1,26 @@
-# Data Science Repository
+# Cientista de dados!
 
-Bem-vindo ao repositório de Ciência de Dados! Este repositório contém diversos projetos e notebooks que demonstram técnicas e ferramentas usadas em ciência de dados. Abaixo você encontrará uma visão geral dos arquivos e das ferramentas utilizadas.
+Olá, esse é um repositório sobre ciência de dados. Sempre vou tentar atualizar os materiais e tentar deixar o mais claro o possível para que há uma diminuição da dificuldade do assunto em questão. 
+Espero que goste! :smile:
 
-## Índice
 
-- [Descrição](#descrição)
-- [Estrutura do Repositório](#estrutura-do-repositório)
-- [Requisitos](#requisitos)
-- [Como Executar](#como-executar)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
+# Arquivos
 
-## Descrição
+Os arquivos estão organizados da seguinte forma:
+│ ├── notebooks -> scripts em pastas 
+│ ├── data -> dados ( contém nos arquivos dos scripts tbm)
+│ ├── visualizations -> Gráficos
+│ └── README
 
-Este repositório contém exemplos e projetos relacionados a ciência de dados, incluindo:
+## Materiais :sunglasses:  
 
-- **Análise Exploratória de Dados (EDA)**: Scripts e notebooks que mostram como explorar e visualizar dados.
-- **Modelagem Preditiva**: Modelos de machine learning aplicados a diferentes conjuntos de dados.
-- **Processamento de Dados**: Ferramentas e técnicas para limpeza e pré-processamento de dados.
-- **Visualização de Dados**: Exemplos de como criar visualizações eficazes usando ferramentas como Matplotlib e Seaborn.
+há materiais em pdf, livros conhecidos e etc..
+Mas tem um arquivo em especial que eu mesmo estou escrevendo e pretendo atualizar de acordo com o tempo. É um resumo de conceitos básicos sobre estatística e modelos de ciência de dados, desculpe qualquer erro.. 
 
-## Estrutura do Repositório
 
-A estrutura do repositório é a seguinte:
+## Erro nos scripts e observações sobre materiais :nerd_face:
+
+Nesse caso, fiquei grato e atento a qualquer observação que foi feita e trabalhei nelas se forem viáveis!!
+
 
 

@@ -14,6 +14,7 @@ Os arquivos estão organizados da seguinte forma:
 
 
 │ ├── visualizations -> Gráficos
+
 │ └── README
 
 ## Materiais :sunglasses:  

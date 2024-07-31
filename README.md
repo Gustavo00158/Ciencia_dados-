@@ -7,8 +7,12 @@ Espero que goste! :smile:
 # Arquivos
 
 Os arquivos estão organizados da seguinte forma:
+
 │ ├── notebooks -> scripts em pastas 
+
 │ ├── data -> dados ( contém nos arquivos dos scripts tbm)
+
+
 │ ├── visualizations -> Gráficos
 │ └── README
 
